@@ -1,0 +1,1 @@
+import PokemonsList from './PokemonsList'
